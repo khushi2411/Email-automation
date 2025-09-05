@@ -209,41 +209,7 @@ def main():
         sender_email = "khushi@truestate.in"
 
         receiver_emails = [
-            {"Email": "khushiatrey011@gmail.com", "Name": "Khushi"},
-            {"Email": "kshitij.tiwari@truestate.in", "Name": "Kshitij"},
-            # {"Email": "saket.amrit@truestate.in", "Name": "Saket"},
-            {"Email": "daksh.sv@truestate.in", "Name": "Daksh"},
-            {"Email": "dheeraj.chopra@truestate.in", "Name": "Dheeraj"},
-            # {"Email": "srikanth@truestate.in", "Name": "Shrikanth"},
-            {"Email": "srihitha@truestate.in", "Name": "Shrihitha"},
-            # {"Email": "sushmitha@truestate.in", "Name": "Sushmitha"},
-            # {"Email": "srikant.hamsa@acnonline.in", "Name": "Srikanth"},
-            {"Email": "rasrajan@acnonline.in", "Name": "Rasrajan"},
-            # {"Email": "ish.venaik@truestate.in", "Name": "Ish"},
-            {"Email": "rahila@truestate.in", "Name": "Rahila"},
-            {"Email": "ankit@truestate.in", "Name": "Ankit"},
-            {"Email": "raman@truestate.in", "Name": "Raman"},
-            {"Email": "dhananjay@truestate.in", "Name": "Dj"},
-            {"Email": "amit@truestate.in", "Name": "Amit"},
-            {"Email": "siddharth@truestate.in", "Name": "Siddharth"},
-            {"Email": "rahul@truestate.in", "Name": "Rahul"},
-            {"Email": "ravi@truestate.in", "Name": "Ravi"},
-            # {"Email": "shaun@truestate.in", "Name": "Shaun"},
-            {"Email": "pratham@truestate.in", "Name": "Pratham"},
-            # {"Email": "mansi@acnonline.in", "Name": "Mansi"},
-            # {"Email": "anurag@truestate.in", "Name": "Anurag"},
-            {"Email": "ashima.a@acnonline.in", "Name": "Ashima"},
-            {"Email": "samarth@truestate.in", "Name": "Samarth"},
-            {"Email": "divesh.sv@truestate.in", "Name": "Divesh sv"},
-            {"Email": "adityakamath1992@gmail.com", "Name": "Aditya"},
-            {"Email": "kishan@truestate.in", "Name": "Kishan"},
-            # {"Email": "saket.kumar@acnonline.in", "Name": "Saket"},
-            {"Email": "ashwini.k@acnonline.in", "Name": "Ashwini"},
-            {"Email": "swaraj@truestate.in", "Name": "Swaraj"},
-            #  {"Email": "fahim@proptech.com", "Name": "Fahim"},
-            {"Email": "vishesh@canvas-homes.com", "Name": "Vishesh"},
-            {"Email": "ram@truestate.in", "Name": "Ram"},
-             {"Email": "deepak.chauhan@canvas-homes.com", "Name": "deepak"},
+            {"Email": "khushiatrey011@gmail.com", "Name": "Khushi"}
             
         ]
 
@@ -266,3 +232,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
