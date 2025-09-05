@@ -319,9 +319,7 @@ def main():
         email_body = build_projects_text(new_projects) if new_projects else "No new projects updated."
         sender_email = "khushiatrey011@gmail.com"
         receiver_emails = [
-            {"Email": "khushi@truestate.in", "Name": "Khushi"},
-            {"Email": "raman@truestate.in", "Name": "Raman"},
-            {"Email": "siddharth@truestate.in", "Name": "Sidharth"},
+            {"Email": "khushi@truestate.in", "Name": "Khushi"}
            
         ]
         subject = "New RERA Projects Update"
@@ -339,3 +337,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
